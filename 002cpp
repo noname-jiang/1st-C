@@ -33,8 +33,7 @@ int CreateList(LinkList& L)
 	int t;
 	L = new LNode;
 	L->next = NULL;
-	while(scanf_s("%d",&t)!=EOF)
-//	for (int i = 0; i < 8; ++i)
+	while(scanf_s("%d",&t)!=EOF)//读取到文件的结尾停止
 	{
 		p = new LNode;
 		p->date = t;
