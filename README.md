@@ -1,6 +1,6 @@
 # 1st-C
-my first step of C/C++  ;  store some questions of C/C++/Data Structure
-### 存放学习C/C++/数据结构时遇到的一些问题
+store some questions of C/C++/Data Structure
+### 存放学习数据结构时遇到的一些问题
   001：利用栈实现十进制转八进制  
   002：输入一个单向链表,输出该链表中倒数第k个结点  
   003：寻找神秘路径秘路径 
